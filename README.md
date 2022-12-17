@@ -10,3 +10,6 @@ Roteiro 0:\
 NUMEROMG - some dois numeros de base 64\
 OBIHANOI - torre de hanoi\
 QUERM- quermesse
+
+Roteiro 1:\
+Contrato - revisao de contrato
